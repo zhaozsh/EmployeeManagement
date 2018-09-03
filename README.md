@@ -1,2 +1,0 @@
-# EmployeeManagement
-Employee Management System
